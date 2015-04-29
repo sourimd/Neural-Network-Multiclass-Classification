@@ -1,0 +1,2 @@
+Neural Network for 3 class classification problem. The architecture basically consists of three 2 class neural networks
+where output from each such smaller neural nets determine whether a feature vector is part of class i or not where i=1,2,3
